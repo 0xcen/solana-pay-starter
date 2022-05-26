@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Twitter Solutions",
+    "price": "0.1",
+    "description": "Twitter notifiers for your collection's most important sales and stats.",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Discord Bots",
+    "price": "450",
+    "description": "Discord notifiers for your collection's most important sales and stats.",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Something.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 3,
+    "name": "newProduct",
+    "price": "240",
+    "image_url": "https://cf-ipfs.com/ipfs/bafybeice5z54eibcn2w7rxqluh3vgsavrzxk3ujd2qkottrxlbla2m6hkq/4333.png",
+    "description": "An image",
+    "filename": "emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  }
+]
